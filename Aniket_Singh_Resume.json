@@ -1,0 +1,64 @@
+{
+	"basics": {
+		"name": "ANIKET SINGH",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/75739821?s=400&u=a4498505821b4c8703f88f9ca003e58cabc912d2&v=4",
+		"email": "2020kuec2070@iiitkota.ac.in",
+		"summary": "I am Aniket Singh, a Second-Year Undergraduate of Electronics & Communication Engineering at the Prestigious Indian Institute of Information Technology (IIIT) Kota. My interest deeply revolves around Exploring and Learning Data-Structures & Algorithms & Competitive Programing and I also love creating and developing awesome websites.",
+		"location": {
+			"address": "Dehradun",
+			"postalCode": "248002",
+			"city": "Dehradun",
+			"countryCode": "India",
+			"region": "Uttarakhand"
+		},
+		"profiles": [{
+				"network": "Linkedin",
+				"username": "ANIKET SINGH",
+				"url": "https://www.linkedin.com/in/aniket-singh-411bba20b/"
+			},
+			{
+				"network": "Github",
+				"username": "ANIKETSINGH09",
+				"url": "https://github.com/ANIKETSINGH09"
+			},
+			{
+				"network": "Youtube",
+				"username": "ROBO STAR",
+				"url": "https://www.youtube.com/channel/UCtxoHxuWOh8nCxaCux-bXyQ/featured"
+			}
+		]
+	},
+	
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology (BTech)",
+		"startDate": "2020-08-12",
+		"endDate": "2024-08-08",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+	"publications & Projects": [{
+		"title": "Reverse Car Parking Sensor",
+		"details": "Robotics 1st Semester End Term Project On REVERSE CAR PARKING SENSOR USING ARDUINO UNO R3 BOARD",
+		"link": "https://www.youtube.com/watch?v=0C2oMDMn_Yg&t=4s"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["C/C++", "HTML", "CSS", "Javascript", "React"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton", "Table Tennis", "Football"]
+	}],
+	"references": []
+}
